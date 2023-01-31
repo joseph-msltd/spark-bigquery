@@ -1,6 +1,8 @@
 Spark-BigQuery
 
-This project is derived from Spotify Spark BigQuery Project https://github.com/spotify/spark-bigquery
+This project is a helper tool for the data migration from bigquery in to dataproc spark cluster.
 
-Read https://github.com/spotify/spark-bigquery/blob/master/README.md
+
+Reference:
+https://github.com/spotify/spark-bigquery/blob/master/README.md
 
